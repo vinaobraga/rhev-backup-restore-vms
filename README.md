@@ -1,5 +1,7 @@
 # rhev-backup-restore-vms
-A way, developed to perform a backup and restore from virtual machines servers running on RedHat Enterprise Virtualization
+A way, developed to perform a backup and restore from virtual machines servers running on RedHat Enterprise Virtualization.
+
+To develop these scripts, we used the RHEV 4.0 version.
 
 The backup process from VMs running on RHEV was developed considering basicaly three steps:
 
